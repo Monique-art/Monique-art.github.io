@@ -18,6 +18,17 @@
 		font: inherit;
 		vertical-align: baseline;
 	}
+        
+        menu, nav, ul, li{
+                margin: 0;
+		padding: 0;
+		border: 0;
+		font-size: 100%;
+		font: inherit;
+		vertical-align: middle;
+        }
+    
+
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
@@ -71,7 +82,7 @@
 	}
 
 	ol, ul {
-		list-style: 1;
+		list-style: none;
 	}
 
 	blockquote, q {
