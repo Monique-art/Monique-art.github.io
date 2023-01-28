@@ -22,6 +22,24 @@
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
+        
+        
+        .navbar{
+		width: 1200px;
+		height: 75px;
+	        margin: auto;
+        }
+        
+        .icon{
+	      width: 200px;
+	      float: left;
+	      height: 70px;
+        }
+        
+        .logo{
+		color: #ff7200
+        }
+ 
 
 	body {
 		line-height: 1;
