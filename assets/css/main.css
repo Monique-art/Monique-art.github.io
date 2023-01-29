@@ -26,8 +26,24 @@
 	body {
 		line-height: 1;
 	}
+        
+        .navbar ul{
+		list-style: none;
+		background: #663366
+	        padding: 0;
+		margin: 0;
+        }
+        .navbar li{
+		display: inline-block;
+        }
+        .navbar a{
+		text-decoration: none;
+		color:#fff;
+		width:100px;
+		display: block;
+        }
 
-	ol, ul {
+  	ol, ul {
 		list-style: none;
 	}
 
