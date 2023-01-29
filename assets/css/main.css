@@ -41,8 +41,12 @@
 		color:#fff;
 		width:100px;
 		display: block;
+		padding: 25px 20px;
+		font-size: 15px;
+		font-transform: uppercase;
+		font-weight: bold;
         }
-
+     
   	ol, ul {
 		list-style: none;
 	}
