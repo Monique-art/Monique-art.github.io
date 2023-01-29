@@ -29,7 +29,7 @@
         
         .navbar ul{
 		list-style: none;
-		background: #663366;
+		background: #000000;
 	        padding: 0;
 		margin: 0;
 		text-align: left;
@@ -49,7 +49,7 @@
 		text-align: center;
         }
         .navbar a:hover{
-		background: blue;
+		background: #ADD8E6;
         }	
      
   	ol, ul {
