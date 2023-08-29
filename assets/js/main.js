@@ -74,7 +74,7 @@
 								if (!skel.vars.mobile
 								&&	!skel.breakpoint('large').active
 								&&	skel.vars.IEVersion > 9)
-									$banner.append('<video autoplay loop><source src="' + video + '.mp4" type="video/mp4" /><source src="' + video + '.webm" type="video/webm" /></video>');
+									$banner.append('<video autoplay loop><source src="banner/images' + video + '.mp4" type="video/mp4" /><source src="banner/images' + video + '.webm" type="video/webm" /></video>');
 
 						});
 
